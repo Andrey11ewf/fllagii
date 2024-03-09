@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
               name: countryList[index].name,
               flagUrl: countryList[index].flag,
               area: countryList[index].square,
-              population: countryList[index].population, description: countryList[index].description,
+              population: countryList[index].population, description: countryList[index].description  ,
             );
           },
         ),

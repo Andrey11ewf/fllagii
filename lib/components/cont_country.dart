@@ -71,6 +71,7 @@ class CountryWidget extends StatelessWidget {
               fontSize: 14,
             ),
           ),
+          const SizedBox(height: 5),
           ElevatedButton(
             onPressed: () {
               Navigator.push(
