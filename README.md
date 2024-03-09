@@ -1,16 +1,5 @@
-# countries_gridview
+![image](https://github.com/DaniilSergachev/countries_gridview/assets/147177550/237a88f7-52de-4fb3-b247-7a30ed4b232a)
+![image](https://github.com/DaniilSergachev/countries_gridview/assets/147177550/0600bb16-0e44-4eed-be92-4f59490c1834)
+![image](https://github.com/DaniilSergachev/countries_gridview/assets/147177550/762358e3-5872-41c6-a372-d2943d193c56)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
